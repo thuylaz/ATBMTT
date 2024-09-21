@@ -1,0 +1,45 @@
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.exe
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.deps.json
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.runtimeconfig.json
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.dll
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.pdb
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.csproj.AssemblyReference.cache
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\App.g.cs
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA_MarkupCompile.cache
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.g.resources
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.AssemblyInfoInputs.cache
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.AssemblyInfo.cs
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.csproj.CoreCompileInputs.cache
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.dll
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\refint\chukyRSA.dll
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.pdb
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.genruntimeconfig.cache
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\ref\chukyRSA.dll
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+E:\Hoctap\HocKi_Phu\AT&BM Thong tin\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.csproj.ResolveComReference.cache
+D:\atbmtt\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.exe
+D:\atbmtt\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.deps.json
+D:\atbmtt\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.runtimeconfig.json
+D:\atbmtt\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.dll
+D:\atbmtt\chukyRSA\chukyRSA\bin\Debug\net6.0-windows\chukyRSA.pdb
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.csproj.ResolveComReference.cache
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\MainWindow.baml
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\App.g.cs
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA_MarkupCompile.cache
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.g.resources
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.AssemblyInfoInputs.cache
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.AssemblyInfo.cs
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.csproj.CoreCompileInputs.cache
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.dll
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\refint\chukyRSA.dll
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.pdb
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\chukyRSA.genruntimeconfig.cache
+D:\atbmtt\chukyRSA\chukyRSA\obj\Debug\net6.0-windows\ref\chukyRSA.dll

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\atbmtt\\chukyRSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|d:\\atbmtt\\chukyrsa\\chukyrsa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|solutionrelative:chukyrsa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|d:\\atbmtt\\chukyrsa\\chukyrsa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|solutionrelative:chukyrsa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|d:\\atbmtt\\chukyrsa\\chukyrsa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|solutionrelative:chukyrsa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|d:\\atbmtt\\chukyrsa\\chukyrsa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF3ECD-52DD-44DC-BB8E-6E8FFCFA246C}|chukyRSA\\chukyRSA.csproj|solutionrelative:chukyrsa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\atbmtt\\chukyRSA\\chukyRSA\\App.xaml",
+              "RelativeDocumentMoniker": "chukyRSA\\App.xaml",
+              "ToolTip": "D:\\atbmtt\\chukyRSA\\chukyRSA\\App.xaml",
+              "RelativeToolTip": "chukyRSA\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T04:45:35.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\atbmtt\\chukyRSA\\chukyRSA\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "chukyRSA\\MainWindow.xaml",
+              "ToolTip": "D:\\atbmtt\\chukyRSA\\chukyRSA\\MainWindow.xaml",
+              "RelativeToolTip": "chukyRSA\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T11:40:58.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\atbmtt\\chukyRSA\\chukyRSA\\App.xaml.cs",
+              "RelativeDocumentMoniker": "chukyRSA\\App.xaml.cs",
+              "ToolTip": "D:\\atbmtt\\chukyRSA\\chukyRSA\\App.xaml.cs",
+              "RelativeToolTip": "chukyRSA\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:03:15.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\atbmtt\\chukyRSA\\chukyRSA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "chukyRSA\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\atbmtt\\chukyRSA\\chukyRSA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "chukyRSA\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAYwIQBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:10:42.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

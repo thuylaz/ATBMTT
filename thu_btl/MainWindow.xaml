@@ -1,0 +1,47 @@
+﻿<Window x:Class="thu_btl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:thu_btl"
+        mc:Ignorable="d"
+        Title="Chữ ký điện tử" Height="589" Width="945">
+    <Grid Margin="5,5,5,5">
+        <TabControl HorizontalAlignment="Left" Height="526" Margin="10,10,0,0" VerticalAlignment="Top" Width="907">
+            <TabItem Header="Tạo khóa">
+                <Grid Background="#FFE5E5E5" Margin="5,5,5,5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="21*"/>
+                        <ColumnDefinition Width="130*"/>
+                        <ColumnDefinition Width="740*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="1" Content="Chọn số nguyên tố:" HorizontalAlignment="Left" Margin="9,20,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="220" FontSize="22" FontWeight="Medium" FontStyle="Italic" Foreground="#FF150EF7"/>
+                    <Label Grid.Column="2" FontWeight="Bold" Content="P" HorizontalAlignment="Left" Margin="89,47,0,0" VerticalAlignment="Top"/>
+                    <Label Grid.Column="2" Content="Q" FontWeight="Bold" HorizontalAlignment="Left" Margin="89,111,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.408,3.55"/>
+                    <Label Grid.Column="2" Content="Tạo khóa" HorizontalAlignment="Left" Margin="388,20,0,0" Width="220" FontSize="22" FontWeight="Medium" FontStyle="Italic" Foreground="#FF150EF7" VerticalAlignment="Top"/>
+                    <Label Grid.Column="1" Content="Tính các giá trị: " HorizontalAlignment="Left" Margin="9,166,0,0" VerticalAlignment="Top" Width="220" FontSize="22" FontWeight="Medium" FontStyle="Italic" Foreground="#FF150EF7" Grid.ColumnSpan="2" />
+                    <RadioButton Grid.Column="2" Name="rb_tcRSA" Content="Tạo khóa tùy chọn" HorizontalAlignment="Left" Margin="400,77,0,0" VerticalAlignment="Top"/>
+                    <RadioButton Grid.Column="2" Name="rb_tdRSA" Content="Tạo khóa tự động" HorizontalAlignment="Left" Margin="400,112,0,0" VerticalAlignment="Top"/>
+                    <Label Grid.Column="1" Content="Φ(N)" FontWeight="Bold" HorizontalAlignment="Left" Margin="53,203,0,0" VerticalAlignment="Top"/>
+                    <Label Grid.Column="1" Content="Khóa công khai" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="17" Foreground="#FF7D17E8" Margin="74,255,0,0" Grid.ColumnSpan="2" Width="138"/>
+                    <Label Grid.Column="2" Content="Khóa bí mật" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="338,255,0,0" FontSize="17" Foreground="#FF7D17E8"/>
+                    <Label Grid.Column="2" Content="N" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="338,372,0,0"/>
+                    <Label Grid.Column="2" Content="D" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="338,303,0,0"/>
+                    <Label Grid.Column="1" Content="N" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,372,0,0"/>
+                    <Label Grid.Column="1" Content="E" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,303,0,0"/>
+                    <TextBox Grid.Column="2" Name="So_N" HorizontalAlignment="Left" Margin="0,376,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="2" Name="So_Q" HorizontalAlignment="Left" Margin="145,114,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="2" Name="So_P" HorizontalAlignment="Left" Margin="145,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="2" Name="So_N_copy" HorizontalAlignment="Left" Margin="417,376,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="2" Name="So_D" HorizontalAlignment="Left" Margin="417,307,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="2" Name="So_E" HorizontalAlignment="Left" Margin="0,307,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="2" Name="So_O_le" HorizontalAlignment="Left" Margin="0,210,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <Button Grid.Column="2" Content="Tạo khóa" HorizontalAlignment="Left" Margin="117,433,0,0" VerticalAlignment="Top" Width="100" Height="40" Background="#FF6782F1" Foreground="White"/>
+                    <Button Grid.Column="2" Content="Thoát" HorizontalAlignment="Left" Margin="417,433,0,0" VerticalAlignment="Top" Width="100" Height="40" Background="#FF6782F1" Foreground="White"/>
+
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
